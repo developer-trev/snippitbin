@@ -1,19 +1,22 @@
-
-# SnippitBin
+<div align="center">
+  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <h1>SnippitBin</h1>
+  <p>A simple <a href="">Pastebin</a> clone that uses AWS serverless technology.</p>
+</div>
 
 
 ## About
 
-### Built With
-
-- Terraform IaC
-- AWS
-- NodeJS
-- Angular
+### Tech Stack
+### Features
+### Color Reference
+### Environment Variables
 
 ## Getting Started
-
 ### Prerequisites
+
+
+
 
 ### Terraform
 
@@ -40,3 +43,16 @@ aws dynamodb create-table \
 ```
 terraform init
 ```
+
+
+## Roadmap
+## Contributing
+## FAQ
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Acknowledgements
+
+## Limitation of Liability
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
